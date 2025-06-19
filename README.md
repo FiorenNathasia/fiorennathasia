@@ -34,61 +34,19 @@
 
 </div>
 
-
 --- 
 
-| Languages and Tools | Codewars Stats |
-|---------------|----------------|
-| [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,html,css,sass,github,git,postgresql,ps)](https://skillicons.dev) | [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fifi333&theme=material)](https://www.codewars.com/users/Fifi333) |
+## 🧰 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,html,css,sass,github,git,postgresql,ps)](https://skillicons.dev)
 
 ---
 
----
+## 📊 My GitHub Stats and Codewars
 
-## Top Repositories
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/FiorenNathasia/fittech-frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiorenNathasia&repo=fittech-frontend&theme=material&hide_border=true&border_radius=15" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/FiorenNathasia/fittech-backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiorenNathasia&repo=fittech-backend&theme=material&hide_border=true&border_radius=15" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/FiorenNathasia/thrivevibe-frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiorenNathasia&repo=thrivevibe-frontend&theme=material&hide_border=true&border_radius=15" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/FiorenNathasia/thrivevibe-backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiorenNathasia&repo=thrivevibe-backend&theme=material&hide_border=true&border_radius=15" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/FiorenNathasia/mindscape-frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiorenNathasia&repo=mindscape-frontend&theme=material&hide_border=true&border_radius=15" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/FiorenNathasia/mindscape-backend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FiorenNathasia&repo=mindscape-backend&theme=material&hide_border=true&border_radius=15" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Connect With Me 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fiorennathasia) &nbsp;&nbsp; [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:fiorennathasia@gmail.com)
+| GitHub Stats | Codewars Stats |
+|--------------|----------------|
+| [![Fioren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiorenNathasia&theme=material&show_icons=true&count_private=true)](https://github.com/FiorenNathasia) | [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fifi333&theme=material)](https://www.codewars.com/users/Fifi333) |
 
 
 
