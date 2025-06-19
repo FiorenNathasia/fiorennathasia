@@ -42,8 +42,6 @@
 
 ---
 
-## 📊 My GitHub Stats and Codewars
-
 | GitHub Stats | Codewars Stats |
 |--------------|----------------|
 | [![Fioren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiorenNathasia&theme=material&show_icons=true&count_private=true)](https://github.com/FiorenNathasia) | [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fifi333&theme=material)](https://www.codewars.com/users/Fifi333) |
