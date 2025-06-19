@@ -68,12 +68,8 @@ I am a full stack developer who found her way into software after earning a degr
 
 ---
 
-## 🌐 Connect With Me
-
-Feel free to say hi or connect on LinkedIn or email! Thanks for stopping by! 😊
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fiorennathasia) &nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:fiorennathasia@gmail.com)
+## 🌐 Connect With Me 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/fiorennathasia) &nbsp;&nbsp; [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:fiorennathasia@gmail.com)
 
 
 
