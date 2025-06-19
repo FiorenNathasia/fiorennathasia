@@ -7,7 +7,7 @@
 </h1>
 
 <p>
-  I am a full stack developer who found her way into software after earning a degree in textile design. I’ve always been a problem solver at heart, and development turned out to be the perfect space to flex that muscle while still being creative. My background in design taught me to think visually and care deeply about the why behind an interface — not just the how. I’m drawn to projects that blend creativity with utility, and I hope to keep building things that reflect that balance ☺️
+  I am a full stack developer who found her way into software after earning a degree in textile design. I’ve always been a problem solver at heart, and development turned out to be the perfect space to flex that muscle while still being creative 💪🏽. My background in design taught me to think visually and care deeply about the why behind an interface, not just the how. I am drawn to projects that blend creativity with utility, and I hope to keep building things that reflect that balance ☺️
   <a href="./FiorenNathasiaCV.pdf" style="text-decoration: none; margin-left: 15px;">
     <span style="
       display: inline-block;
