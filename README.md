@@ -18,9 +18,11 @@ I am a full stack developer who found her way into software after earning a degr
 
 --- 
 
-## 🧰 Languages and Tools
+| Languages and Tools | Codewars Stats |
+|---------------|----------------|
+| [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,html,css,sass,github,git,postgresql,ps)](https://skillicons.dev) | [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fifi333&theme=material)](https://www.codewars.com/users/Fifi333) |
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,html,css,sass,github,git,postgresql,ps)](https://skillicons.dev)
+---
 
 ---
 
@@ -63,14 +65,6 @@ I am a full stack developer who found her way into software after earning a degr
     </td>
   </tr>
 </table>
-
----
-
-## 📊 My Coding Stats
-
-| GitHub Streak | Codewars Stats |
-|---------------|----------------|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FiorenNathasia&theme=material&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Fifi333&theme=material)](https://www.codewars.com/users/Fifi333) |
 
 ---
 
